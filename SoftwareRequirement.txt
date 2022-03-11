@@ -1,0 +1,4 @@
+Python 3.9.7(recommended)
+Tkintek installed on system
+            Can be installed via "pip install tkinter"
+            in the terminal
