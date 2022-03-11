@@ -19,3 +19,8 @@ Result and Output:
 
 Conclusion and Future Scope:
 		Now, we see google calendar and mark our schedule on it but we don’t have a feature of scheduling a meeting (to a person who schedules on same platform i.e., Google Calendar) after adding this API it will boost the productivity of such software and will enhance the comfort of the user.
+		
+		
+		
+This code has never been implemented and used, thus  this can be used to make google calender more reliable and can be further be enhanced,
+as it doesn't have this kind of feature which allows the users to manage the schedules and can save time a lot.
